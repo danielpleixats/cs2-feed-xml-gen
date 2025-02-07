@@ -44,4 +44,4 @@ jobs:
       with:
         commit_message: "📝 Update RSS Updates Feed"
         commit_options: "--no-gpg-sign"
-        branch: master
+        branch: main
