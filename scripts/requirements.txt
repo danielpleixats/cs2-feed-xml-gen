@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+feedgen==1.0.0
+feedparser==6.0.11
+selenium==4.21.0
