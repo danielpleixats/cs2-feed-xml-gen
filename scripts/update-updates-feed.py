@@ -68,18 +68,23 @@ for language_name, (language_code, language_locale) in language_map.items():
           print(f"Error al parsear la fecha: {e}. Cadena a parsear: '{date_str}', Formato intentado: '{date_format}'")
           continue # Saltar al siguiente elemento si la fecha no se puede parsear
 
-        desc = capsule.select_one('div[class*="updatecapsule_Desc"]').decode_contents().strip()
+        desc_div = capsule.select_one('div[class*="updatecapsule_Desc"]')  # Obtener el div de descripción
 
-        while desc.startswith('<br'):
-            index = desc.index('>') + 1
-            desc = desc[index:]
+        if desc_div: # Verificar si existe el div
+            for br_tag in desc_div.find_all('br'):  # Eliminar todas las etiquetas <br>
+                br_tag.extract()
 
-        updates.append({
-            'guid': hashlib.sha256(f'{date.day}{date.month}{date.year}'.encode()).hexdigest(),
-            'title': title,
-            'date': date,
-            'content': desc
-        })
+            desc = desc_div.decode_contents().strip()  # Obtener el texto actualizado
+
+            updates.append({
+                'guid': hashlib.sha256(f'{date.day}{date.month}{date.year}'.encode()).hexdigest(),
+                'title': title,
+                'date': date,
+                'content': desc
+            })
+        else:
+            print("No se encontró el div de descripción para esta cápsula.")
+            continue # Saltar a la siguiente cápsula si no se encuentra el div de descripción
 
     github_workspace = os.getenv('GITHUB_WORKSPACE')
     if github_workspace:
