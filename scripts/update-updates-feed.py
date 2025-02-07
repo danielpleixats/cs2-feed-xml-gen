@@ -65,13 +65,14 @@ for language_name, (language_code, language_locale) in language_map.items():
     updates = []
 
     # Set locale to parse the date, but dates are currently not localized anyways (Thanks Valve)
-    # locale.setlocale(locale.LC_TIME, f'en_US.UTF-8') # Switch to language_locale after it's fixed (if ever)
-    # date_format = '%B %d, %Y' # English
+    locale.setlocale(locale.LC_TIME, f'en_US.UTF-8') # Switch to language_locale after it's fixed (if ever)
+    date_format = '%B %d, %Y' # English
  
     #locale.setlocale(locale.LC_TIME, 'de_DE') # German
     #date_format = '%d. %B %Y' # German
-    locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')  # Español de España
-    date_format = '%d de %B de %Y'
+
+    # locale.setlocale(locale.LC_TIME, 'es_ES.UTF-8')  # Español de España
+    # date_format = '%d de %B de %Y'
     
     # For each update capsule, find all div containers with relevant information
     for capsule in capsule_divs:
@@ -108,7 +109,7 @@ for language_name, (language_code, language_locale) in language_map.items():
 
     # Generate the RSS feed with feedgen if the latest entry is different from the current RSS feed
     if not skip_file:
-        feed_link = f'https://raw.githubusercontent.com/IceQ1337/CS-RSS-Feed/master/feeds/updates-feed-{language_code}.xml'
+        feed_link = f'https://raw.githubusercontent.com/danielpleixats/cs2-feed-xml-gen/refs/heads/main/feeds/updates-feed-{language_code}.xml'
 
         fg = FeedGenerator()
         fg.title(f'Counter-Strike 2 - Updates ({language_name.capitalize()})')
@@ -135,8 +136,7 @@ for language_name, (language_code, language_locale) in language_map.items():
             fe.rights('Valve Corporation')
 
         rss_content = fg.rss_str(pretty=True)
-        print(language_code)
-        print (rss_feed_file)
+
         # Create or update XML File
         with open(rss_feed_file, "wb") as f:
             f.write(rss_content)
