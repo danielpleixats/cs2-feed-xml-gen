@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 14 May 2025 01:27:00 +0000</lastBuildDate>
-    <item>
-      <title>Counter-Strike 2 – Update vom 16.01.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ VERSCHIEDENES ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Steam-Bibliotheken für Linux-Spielserver auf die neueste Beta-Version des Steam-Clients aktualisiert.</li><li class="bbcodes_ListItem_1BF9I">Fähigkeit von Linux-Spielservern, sich nach einem Verbindungsabbruch wieder mit Steam zu verbinden, verbessert.</li><li class="bbcodes_ListItem_1BF9I">Stabilitätsverbesserungen vorgenommen.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">af3ac640d9af193d1cf95028259ca0359fb6d06778db084046112d9d176c9c27</guid>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 May 2025 01:36:42 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 – Update vom 21.01.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -114,20 +106,28 @@
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 13.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where searching for Defusal Group Alpha would lead to Anubis and Defusal Group Delta would lead to Vertigo.</li></ul>Jura:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).</li></ul>Grail:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).</li></ul>Brewery:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).</li></ul>Dogtown:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Updated to the latest version from the Community Workshop (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update Notes</span></a>).</li></ul>[ AUDIO ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Remastered various UI sounds.</li></ul>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Various crash fixes and stability improvements.</li><li class="bbcodes_ListItem_1BF9I"> Various fixes for running on Linux with SDL_VIDEODRIVER=wayland.</li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den eine Spielsuche über die Entschärfungsgruppe Alpha auf Anubis und eine Spielsuche über die Entschärfungsgruppe Delta auf Vertigo führte.</li></ul>Jura:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>Grail:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>Brewery:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>Dogtown:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>[ AUDIO ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Sounds der Benutzeroberfläche überarbeitet.</li></ul>[ VERSCHIEDENES ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Absturzbehebungen und Stabilitätsverbesserungen vorgenommen.</li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehler behoben, wenn Linux mit „SDL_VIDEODRIVER=wayland“ ausgeführt wurde.</li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">5422cc39a9db7ab85bf666b2d71c29ad2104f58e17acb2bbebc4e8ad07902c8c</guid>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 13.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ GAMEPLAY ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a bug where weapons purchased with "Buy &amp; Throw" could be refunded after firing.</li></ul>[ PREMIER ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Season Two world and regional leaderboards are now populated.</li></ul>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Added HUD "Glow Weapon with Rarity Color" setting.</li><li class="bbcodes_ListItem_1BF9I"> Minimally scraped stickers now cover over the gap on the front grip of the AK-47.</li></ul>]]></description>
+      <description><![CDATA[[ GAMEPLAY ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den ein Teammitglied eine mit „Kaufen und verschenken“ erhaltene Waffe abfeuern und vor dem Verstreichen der Kaufzeit wieder an den ursprünglichen Besitzer zurückgeben konnte, um sich diese rückerstatten zu lassen.</li></ul>[ PREMIUM ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Die regionale sowie die weltweite Bestenliste der 2. Premium-Saison können jetzt abgerufen werden.</li></ul>[ VERSCHIEDENES ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> HUD-Einstellung „Seltenheitsfarben von Waffen anzeigen“ hinzugefügt.</li><li class="bbcodes_ListItem_1BF9I"> Minimal abgekratzte Aufkleber überdecken jetzt die Lücken am vorderen Handgriff der AK-47.</li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">715d666f9d1b2f0c387ff4c0464ba1a4d44ac6313ca1f31ba1db79f0b6313109</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 – Update vom 15.05.2025</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ GAMEPLAY ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Der Deathmatch-Modus erlaubt jetzt unausgeglichene Teams.</li></ul>[ GRAFIK ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den das Feuer von Molotows/Brandgranaten durch das Ansichtsmodell der AK-47 sichtbar war.</li><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den Aufkleber, die die Lücke am vorderen Griff der AK-47 abdeckten, im Modus für Linkshänder falsch ausgeleuchtet wurden.</li><li class="bbcodes_ListItem_1BF9I"> Problem im Spiel behoben, durch das Symbole für Gegenstände im Inventar im Zoommodus nicht korrekt angezeigt wurden.</li></ul>[ AUDIO ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Soundeffekt beim Abfeuern der AK-47 im Vordergrund gekürzt.</li><li class="bbcodes_ListItem_1BF9I"> Verzögerung des Soundeffekts für einschlagende Körpertreffer aus der Sicht des Schützen reduziert.</li><li class="bbcodes_ListItem_1BF9I"> Soundeffekte für einschlagende Körpertreffer aus der Sicht des Schützen verringern kurzzeitig die Umgebungslautstärke und die Lautstärke von anderem Waffenfeuer, damit das Feedback tatsächlich hörbar ist.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4f07dee18ff65023b0c6e03e53ed962db56192b0e9ada6f5f5d47951f74606fe</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

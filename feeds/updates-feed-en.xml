@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 May 2025 01:26:58 +0000</lastBuildDate>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Updating Steam libraries for Linux game servers to the latest version of Steam Client Beta</li><li class="bbcodes_ListItem_1BF9I">Improved Linux game servers ability to reconnect to Steam after a disconnection</li><li class="bbcodes_ListItem_1BF9I">Stability improvements</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">af3ac640d9af193d1cf95028259ca0359fb6d06778db084046112d9d176c9c27</guid>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 May 2025 01:36:41 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -128,6 +120,14 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">715d666f9d1b2f0c387ff4c0464ba1a4d44ac6313ca1f31ba1db79f0b6313109</guid>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Deathmatch mode now allows unbalanced teams.</li></ul>[ GRAPHICS ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fixed a case where molotov and incendiary fire was visible through the AK-47 viewmodel.</li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where stickers covering the gap on the front grip of the AK-47 weren't lit correctly in left hand mode.</li><li class="bbcodes_ListItem_1BF9I"> Fixed a case where inventory item icons rendered incorrectly while scoped in-game.</li></ul>[ AUDIO ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Shortened front end of the AK-47 fire sound.</li><li class="bbcodes_ListItem_1BF9I"> Reduced delay for body shot impact sounds from the attacker perspective.</li><li class="bbcodes_ListItem_1BF9I"> Body shot impact sounds from the attacker perspective will momentarily reduce the volume of weapon fire and ambience to help ensure feedback remains audible.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">4f07dee18ff65023b0c6e03e53ed962db56192b0e9ada6f5f5d47951f74606fe</guid>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
