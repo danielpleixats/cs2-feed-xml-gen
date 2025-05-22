@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 May 2025 01:37:51 +0000</lastBuildDate>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://www.counter-strike.net/news/updates?l=english</link>
-      <description><![CDATA[[ PREMIER ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Premier Season One is now over, and Premier matchmaking has been temporarily disabled.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">4bba681297b3df386b4c1ac68381e2e2c70394e7c78899114cb3c7029dfb21c9</guid>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 22 May 2025 01:27:52 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 Update</title>
       <link>https://www.counter-strike.net/news/updates?l=english</link>
@@ -128,6 +120,14 @@
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">74830d37ee3bdface6e2bb09bafce2d86690214b4df38cf60951dcb721231277</guid>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=english</link>
+      <description><![CDATA[[ GAMEPLAY ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Rendered viewangle adjustments due to recoil are now calculated per frame.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">8eaa61442d5f5e1d7b986552ebd201f109ca1c525503cbeb0c1fa779e20da014</guid>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
