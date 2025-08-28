@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 27 Aug 2025 01:24:14 +0000</lastBuildDate>
-    <item>
-      <title>Counter-Strike 2 – Update vom 13.05.2025</title>
-      <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ KARTEN ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Fehler behoben, durch den eine Spielsuche über die Entschärfungsgruppe Alpha auf Anubis und eine Spielsuche über die Entschärfungsgruppe Delta auf Vertigo führte.</li></ul>Jura:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>Grail:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>Brewery:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>Dogtown:<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Karte auf die neueste Version aus dem Community-Workshop aktualisiert. (<a class="Focusable" href="https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782?snr=" tabindex="0"><span data-tooltip-text="steamcommunity.com">Update-Notizen</span></a>)</li></ul>[ AUDIO ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Verschiedene Sounds der Benutzeroberfläche überarbeitet.</li></ul>[ VERSCHIEDENES ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Diverse Absturzbehebungen und Stabilitätsverbesserungen vorgenommen.</li><li class="bbcodes_ListItem_1BF9I"> Diverse Fehler behoben, wenn Linux mit „SDL_VIDEODRIVER=wayland“ ausgeführt wurde.</li></ul>]]></description>
-      <author>support@steampowered.com (Valve Corporation)</author>
-      <guid isPermaLink="false">5422cc39a9db7ab85bf666b2d71c29ad2104f58e17acb2bbebc4e8ad07902c8c</guid>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 01:23:33 +0000</lastBuildDate>
     <item>
       <title>Counter-Strike 2 – Update vom 13.05.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
@@ -122,12 +114,20 @@
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Counter-Strike 2 Update</title>
+      <title>Counter-Strike 2 – Update vom 26.08.2025</title>
       <link>https://www.counter-strike.net/news/updates?l=german</link>
-      <description><![CDATA[[ MAPS ]Ancient<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Restored some grenade lineup visuals.</li><li class="bbcodes_ListItem_1BF9I"> Misc clipping fixes.</li></ul>[ ANIMATION ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed issues with the classic knife's inspect animations.</li><li class="bbcodes_ListItem_1BF9I">Fixed the deploy for the Stiletto knife.</li><li class="bbcodes_ListItem_1BF9I">Fixed the deploy for the Butterfly knife.</li><li class="bbcodes_ListItem_1BF9I"> Updated Talon knife inspect while 'fidgeting' to be more responsive.</li><li class="bbcodes_ListItem_1BF9I">Adjusted Flip knife animation when inspecting immediately after deploying.</li><li class="bbcodes_ListItem_1BF9I">Adjusted Bayonet knife animation when inspecting immediately after deploying.</li></ul>[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Fixed a performance regression when creating bullet impact effects.</li><li class="bbcodes_ListItem_1BF9I">View angle velocity now affects spectator target viewmodels the same way it affects local player viewmodels.</li><li class="bbcodes_ListItem_1BF9I">Fixed a case where looping weapon inspects weren't networking to spectators.</li><li class="bbcodes_ListItem_1BF9I">Fixed a bug where matchmaking was avoiding servers playing the nighttime version of Ancient.</li><li class="bbcodes_ListItem_1BF9I">Removed legacy sprite-based shell casing fallback particle effects.</li><li class="bbcodes_ListItem_1BF9I">Fixed case where overlapping smoke clouds would prematurely extinguish molotov fire.</li></ul>]]></description>
+      <description><![CDATA[[ KARTEN ]Ancient<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I"> Visuelle Fixpunkte für das Werfen von Granaten wiederhergestellt.</li><li class="bbcodes_ListItem_1BF9I"> Verschiedene Clipping-Fehler behoben.</li></ul>[ ANIMATION ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Animationsfehler beim Untersuchen des klassischen Messers behoben.</li><li class="bbcodes_ListItem_1BF9I">Animationsfehler beim Ausrüsten des Stiletts behoben.</li><li class="bbcodes_ListItem_1BF9I">Animationsfehler beim Ausrüsten des Butterflymessers behoben.</li><li class="bbcodes_ListItem_1BF9I"> Animation des Talon-Messers aktualisiert; diese ist jetzt responsiver, wenn das Messer während des Herumwirbelns untersucht wird.</li><li class="bbcodes_ListItem_1BF9I">Animation des Klappmessers angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.</li><li class="bbcodes_ListItem_1BF9I">Animation des Bajonetts angepasst, wenn dieses sofort nach dem Ausrüsten untersucht wird.</li></ul>[ VERSCHIEDENES ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Leistungsregression behoben, die beim Erstellen von Kugeleinschlagseffekten auftrat.</li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den das Sichtfeld des Ansichtsmodells eines Spielers beim Zuschauen nicht berücksichtigt wurde.</li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den das wiederholte Untersuchen einer Waffe für Zuschauer nicht angezeigt wurde.</li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den die Spielsuche Server mit der Nachtversion von Ancient nicht berücksichtigte.</li><li class="bbcodes_ListItem_1BF9I">Veraltete Sprite-basierte Ausweichpartikeleffekte für Patronenhülsen entfernt.</li><li class="bbcodes_ListItem_1BF9I">Fehler behoben, durch den überlappende Rauchwolken von Rauchgranaten das Feuer eines Molotows bzw. einer Brandgranate in der Nähe frühzeitig löschten.</li></ul>]]></description>
       <author>support@steampowered.com (Valve Corporation)</author>
       <guid isPermaLink="false">728615f745ff412ac2b7a3a6475da3ab43c512ed759bf07eeab024799530dd7b</guid>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://www.counter-strike.net/news/updates?l=german</link>
+      <description><![CDATA[[ MISC ]<ul class="bbcodes_List_20uQh"><li class="bbcodes_ListItem_1BF9I">Stability improvements when using multi-command input binds.</li><li class="bbcodes_ListItem_1BF9I">Fixed issue where Jonathan Young music kit would loop incorrectly.</li></ul>]]></description>
+      <author>support@steampowered.com (Valve Corporation)</author>
+      <guid isPermaLink="false">cb28918714caac26442c98d5ae2613ed7ce77b8c49d324a25524ba32599becfe</guid>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
